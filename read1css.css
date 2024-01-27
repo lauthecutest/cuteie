@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(241, 176, 196);
+
+  }
+
+header{
+    color:rgb(125, 12, 46);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 19vh;
+}
+
+.btn {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 2px solid;
+    background: white;
+    color: rgb(125, 12, 46);
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+}
